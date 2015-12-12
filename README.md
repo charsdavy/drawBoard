@@ -1,5 +1,5 @@
 # drawBoard
-This software can draw line of different color or font,import photo,erase board and clear board.
+This software can draw line of different color or font,import photo,erase board and clear board.<br/>
 画板支持线条绘画，橡皮，清屏，导入相片并绘画，设置线条粗细，设置线条颜色，以及设置橡皮大小。
 screenshots
 -----------------------
